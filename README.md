@@ -74,7 +74,7 @@ Here are some ideas to get you started:
 <br>
 <h3>:sunflower: 참여 프로젝트 Repository</h3>
 
-#### 저는 총 4개의 프로젝트에 참여해보았습니다. 링크를 클릭하시면 해당 레포지토리로 이동합니다!
+#### 총 4개의 프로젝트에 참여해보았습니다. 링크를 클릭하시면 해당 레포지토리로 이동합니다!
 
 ### Android
 #### Flutter & Firebase
