@@ -35,7 +35,7 @@ Here are some ideas to get you started:
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mingulee-devel&" alt="mingulee-devel" />
 </div>
 <br>
-<h3>:seedling: 사용해본 언어</h3>
+<h3>:seedling: 사용해본 기술</h3>
 <p align="left"> 
   <!--C언어-->
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
