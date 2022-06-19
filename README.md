@@ -85,5 +85,5 @@ Here are some ideas to get you started:
 ### Web 
 #### Spring Framework & Oracle
 
-[유행어 사전](https://github.com/mingulee-devel/Spring_MEME-Dictionary_final)<br>
+[유행어 사전](https://github.com/mingulee-devel/MeME)<br>
 [HIRP(그룹웨어)](https://github.com/1129khNexapring/HIRP)
