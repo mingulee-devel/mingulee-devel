@@ -48,8 +48,6 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/> <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat-square&logo=Apache Tomcat&logoColor=black"/>  <br><br>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=white"/> <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/> <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=mingulee-devel&show_icons=true&locale=en&layout=compact" alt="mingulee-devel" />
-<br>
 <h3>:sunflower: 참여 프로젝트 Repository</h3>
 
 #### 총 4개의 프로젝트에 참여해보았습니다. 링크를 클릭하시면 해당 레포지토리로 이동합니다!
