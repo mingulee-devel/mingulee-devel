@@ -18,19 +18,7 @@ Here are some ideas to get you started:
 
 <h3 align="left">안녕하세요! 😄 함께하고 싶은 개발자 이민선입니다! :sparkles:</h3> 
 
-<!--방문자수-->
-<!--https://hits.seeyoufarm.com/-->
-<!--[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmingulee-devel&count_bg=%23B889FF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile%20Views&edge_flat=false)](https://hits.seeyoufarm.com)-->
-
-
-<br>
-
-<!--https://hits.seeyoufarm.com/-->
-<!--깃허브 stat-->
-<!--![mingulee-devel's github stats](https://github-readme-stats.vercel.app/api?username=mingulee-devel&show_icons=true)-->
 <div style="float:left;">
-  <img src="https://github-readme-stats.vercel.app/api?username=mingulee-devel&show_icons=true" alt="mingulee-devel" />
-  <!--커밋 수 나옴-->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mingulee-devel&" alt="mingulee-devel" />
 </div>
 <br>
