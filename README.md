@@ -17,11 +17,26 @@ Here are some ideas to get you started:
 <img align="right" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmingulee-devel&count_bg=%23B889FF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile%20Views&edge_flat=false" alt="mingulee-devel" /> </h1>
 
 <h3 align="left">안녕하세요! 😄 함께하고 싶은 개발자 이민선입니다! :sparkles:</h3> 
+<p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mingulee-devel&show_icons=true&include_all_commits=true&theme=buefy&show=contribs">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mingulee-devel&layout=compact&theme=buefy">
+</p>
 
+<!--
+-- 깃허브 리드미 stats 1
 <div style="float:left;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mingulee-devel&" alt="mingulee-devel" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mingulee-devel&theme=buefy" alt="mingulee-devel" />
 </div>
+  -->
+
+<!-- 깃허브 리드미 stats 2 -->
+<!-- ![mingu's GitHub stats](https://github-readme-stats.vercel.app/api?username=mingulee-devel&show_icons=true&theme=buefy) -->
+
+<h3>🏆 Ranking </h3>
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=devel_moon17)](https://solved.ac/devel_moon17/)
 <br>
+
 <h3>:seedling: 사용해본 기술</h3>
 <div>
   <p>
