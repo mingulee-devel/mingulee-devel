@@ -18,7 +18,8 @@ Here are some ideas to get you started:
 
 <h3 align="left">안녕하세요! 😄 함께하고 싶은 개발자 이민선입니다! :sparkles:</h3> 
 <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mingulee-devel&show_icons=true&include_all_commits=true&theme=buefy&show=contribs">
+<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mingulee-devel&show_icons=true&include_all_commits=true&theme=buefy&show=contribs"> -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mingulee-devel&show_icons=true&theme=buefy&show=contribs">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mingulee-devel&layout=compact&theme=buefy">
 </p>
 
