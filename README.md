@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="left"> Hi 👋, I'm minsun! 
-<img align="right" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmingulee-devel&count_bg=%23B889FF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile%20Views&edge_flat=false" alt="mingulee-devel" /> </h1>
+<!-- <img align="right" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmingulee-devel&count_bg=%23B889FF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile%20Views&edge_flat=false" alt="mingulee-devel" /> </h1> -->
 
 <h3 align="left">안녕하세요! 😄 함께하고 싶은 개발자 이민선입니다! :sparkles:</h3> 
 <p>
@@ -78,8 +78,8 @@ Here are some ideas to get you started:
 
 <!-- IDE -->
 <p>
-  <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/> 
+<!--   <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>  -->
   <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white"/>
 </p>
 
